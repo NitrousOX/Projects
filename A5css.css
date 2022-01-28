@@ -1,0 +1,82 @@
+body {
+    color:aqua;
+}
+
+audio{
+    display:none;
+}
+.Balkan{
+    position:relative;
+}
+
+.Madjarska{
+    position:absolute;
+    top:70px;
+    left:435px;
+    height: 53px;
+    width: 123px;
+}
+
+.Bosna {
+    position: absolute;
+    height: 53px;
+    width: 123px;
+    top: 345px;
+    left: 320px;
+}
+
+.Rumunija {
+    position: absolute;
+    height: 53px;
+    width: 123px;
+    top: 211px;
+    left: 771px;
+}
+
+.Bugarska {
+    position: absolute;
+    height: 53px;
+    width: 123px;
+    top: 477px;
+    left: 814px;
+}
+
+.Makedonija {
+    position: absolute;
+    height: 52px;
+    width: 98px;
+    top: 613px;
+    left: 599px;
+}
+
+.Albanija {
+    position: absolute;
+    height: 56px;
+    width: 78px;
+    top: 636px;
+    left: 469px;
+}
+
+.Hrvatska {
+    position: absolute;
+    height: 53px;
+    width: 123px;
+    top: 218px;
+    left: 239px;
+}
+
+.Crna_Gora {
+    position: absolute;
+    height: 57px;
+    width: 88px;
+    top: 511px;
+    left: 414px;
+}
+
+.Srbija {
+    position: absolute;
+    height: 65px;
+    width: 115px;
+    top: 363px;
+    left: 520px;
+    }
